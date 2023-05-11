@@ -1,4 +1,4 @@
-<h1 align="center">Привет меня зовут Baizak :raised_hand: <a href="https://daniilshat.ru/" 
+<h1 align="center">Привет меня зовут Baizak :wave: <a href="https://daniilshat.ru/" 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 ---
 
