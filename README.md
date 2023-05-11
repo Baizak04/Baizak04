@@ -83,7 +83,6 @@ itspace_kg | 07-10-2022 / 07-06-2023
  [![GitHub Streak](https://streak-stats.demolab.com?user=Baizak04&theme=dark&locale=ru&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
   
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?Baizak04=daniilshat&theme=solarized_dark)
 
 
   
