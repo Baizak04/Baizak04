@@ -15,6 +15,8 @@
 
 - :zap: Хочу освоить новую професcию и найти работу.
 
+<img src="https://komarev.com/ghpvc/?username=Baizak04&style=flat-square&color=blue" alt=""/>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/baizak-nadurbekov-144645275/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
