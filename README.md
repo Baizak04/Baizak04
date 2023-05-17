@@ -9,6 +9,8 @@
 ### :man_technologist: Обо мне:
 
 Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. С октября 2022 года начался мой путь в веб разработке на курсах itspace_kg, где я обучаюсь по сей день!
+### :tada: День рождения
+          31 - Мая
 
 - :telescope: Изучаю веб-разработку на курсах itspace_kg!
 
