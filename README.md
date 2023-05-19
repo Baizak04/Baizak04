@@ -23,6 +23,9 @@
   <a href="https://www.linkedin.com/in/baizak-nadurbekov-144645275/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
+  - [Instagram](http://instagram.com/nadurbekov_144) 📸
+
 
 ---
 
@@ -101,6 +104,8 @@
 | ----------------------------------------------------------------| :---------------: |
 itspace_kg | 07-10-2022 / 07-06-2023
   
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Baizak04&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Baizak04" width="700">
   
 ### :fire: Моя статастика :
  <img src="https://github-readme-streak-stats.herokuapp.com?user=Baizak04&theme=jolly" width="700">
