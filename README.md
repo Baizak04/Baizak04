@@ -107,8 +107,7 @@ itspace_kg | 07-10-2022 / 07-06-2023
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baizak04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-    
-
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Baizak04&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) 
 
   
 
