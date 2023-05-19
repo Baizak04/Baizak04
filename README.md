@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/baizak-nadurbekov-144645275/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
+---
 <a href="https://instagram.com/nadurbekov_144"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 
 
