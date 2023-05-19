@@ -114,5 +114,18 @@ itspace_kg | 07-10-2022 / 07-06-2023
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=Baizak04&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) 
 
-  
+  https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+
+
+https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+
+
+https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+
+
+https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+	
+    
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+	
 
