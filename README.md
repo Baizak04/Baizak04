@@ -107,7 +107,7 @@ itspace_kg | 07-10-2022 / 07-06-2023
   <img src="https://github-readme-stats.vercel.app/api?username=Baizak04&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Baizak04" width="700">
   
 ### :fire: Моя статастика :
- <img src="https://github-readme-streak-stats.herokuapp.com?user=Baizak04&theme=green" width="700">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=Baizak04&theme=jolly" width="700">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baizak04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
